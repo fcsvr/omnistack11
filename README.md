@@ -3,17 +3,17 @@ Material do Treinamento da Semana OmniStack 11
 
 Technologies
 -----------
-SPA
-Node.Js
-ReactJs
-React Native
+SPA,
+Node.Js,
+ReactJs,
+React Native,
 SqlLite
 
 Tools
 -----
-VS Code
-Knex
-Nodemon
-Insomnia
+VS Code,
+Knex,
+Nodemon,
+Insomnia,
 Expo
 
