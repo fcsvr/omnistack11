@@ -15,5 +15,7 @@ VS Code,
 Knex,
 Nodemon,
 Insomnia,
-Expo
+Expo,
+Celebrate,
+jest
 
